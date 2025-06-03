@@ -1,18 +1,32 @@
 
 
 
-<p align="center">## 👋 Olá, eu sou o Paulo Bastos!
+<p align="center"># 👋 Olá, eu sou o Paulo Bastos!
 
 🎯 Em transição de carreira para a área de **Qualidade de Software (QA)**, com foco em testes manuais e automação.  
 🎓 Formado em Análise e Desenvolvimento de Sistemas, retomei os estudos com cursos intensivos para me tornar um QA Enginner.  
 🧪 Tenho praticado testes exploratórios, criação de casos de testes, relatórios de bugs e uso de ferramentas como Trello, Excel, Postman e GitHub.  
 🚀 Atualmente estudo automação com Cypress e me dedico diariamente a melhorar minhas habilidades técnicas e minha comunicação profissional.
 
----
 
 ### 📌 Em busca da minha primeira oportunidade como QA Júnior
 
 Sou curioso, focado e comprometido em evoluir continuamente. Se você está buscando alguém com sede de aprender e crescer junto com o time, será um prazer fazer parte da sua equipe!
+
+---
+
+<p align="center"># 👋Hello, I'm Paulo Bastos!
+
+🎯 I’m transitioning my career into the **Software Quality Assurance (QA)** field, focusing on manual testing and automation.  
+🎓 I hold a degree in Systems Analysis and Development and have resumed my studies through intensive courses to become a QA Engineer.  
+🧪 I’ve been practicing exploratory testing, writing test cases, creating bug reports, and using tools like Trello, Excel, Postman, and GitHub.  
+🚀 I’m currently studying test automation with Cypress and dedicating myself daily to improving both my technical skills and professional communication.
+
+
+### 📌 Seeking my first opportunity as a Junior QA
+
+I'm curious, focused, and committed to continuous growth. If you're looking for someone eager to learn and grow with the team, it will be a pleasure to be part of your journey!
+
 
 </p>&nbsp;
 
@@ -21,44 +35,45 @@ Sou curioso, focado e comprometido em evoluir continuamente. Se você está busc
 
 #### Main Stack:
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Cypress](https://img.shields.io/badge/cypress-239120?style=for-the-badge&logo=cypress)&nbsp;
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Graphql](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)&nbsp;
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
 
-![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+![Cypress](https://img.shields.io/badge/cypress-239120?style=for-the-badge&logo=cypress)&nbsp;
+![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white)&nbsp;
+![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)&nbsp;
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+
 
 #### Studying in this moment:
 
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![codecept.js](https://img.shields.io/badge/codecept%20js-F6E05E?style=for-the-badge&logo=codeceptjs&logoColor=000)&nbsp;
+![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
+![selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)&nbsp;
+![Robot](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)&nbsp;
+![Cucumber](https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white)&nbsp;
+![Appium](https://img.shields.io/badge/appium-F01F7A?style=for-the-badge&logo=Appium&logoColor=white)&nbsp;
+![Maestro](https://img.shields.io/badge/maestro-000000?style=for-the-badge&logo=Maestro&logoColor=white)&nbsp;
+![K6](https://img.shields.io/badge/K6-b695c0?style=for-the-badge&logo=K6&logoColor=white)&nbsp;
+![Jmeter](https://img.shields.io/badge/Jmeter-FF0000?style=for-the-badge&logo=Jmeter&logoColor=white)&nbsp;
+![Espresso](https://img.shields.io/badge/espresso-8b5742?style=for-the-badge&logo=espresso&logoColor=white)&nbsp;
 
-#### Databases:
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+
 
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Asana](https://img.shields.io/badge/asana-E44C30?style=for-the-badge&logo=asana&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)&nbsp;
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
+![Spotfy](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
